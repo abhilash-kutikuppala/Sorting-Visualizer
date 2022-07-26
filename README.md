@@ -28,3 +28,5 @@ Features:
     Generation of new data (Randomly generate new data)
 
 3) Time and Space complexity of algorithm being visualized.
+
+Watch the demo demmonstration of the project here,  https://abhilash-kutikuppala.github.io/Sorting-Visualizer/
